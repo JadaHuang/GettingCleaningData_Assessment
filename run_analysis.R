@@ -1,5 +1,3 @@
-setwd("C:/Users/2033/Documents/LearnR/Getting and Cleaning Data/GettingCleaningData_Assessment")
-
 ## Get all names of features
 features <- read.table("UCI HAR Dataset/features.txt")
 
