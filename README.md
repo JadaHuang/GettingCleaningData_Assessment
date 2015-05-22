@@ -1,6 +1,8 @@
 # GettingCleaningData_Assessment
 This project is an assignment for Getting and Cleaning Data in Coursera.
+
 This R script did:
+
 1. Get all names of features
 2. Read test data, rename the variable names, and extract only the measurements on the mean and standard 
 3. Combine subject and activity informations
